@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 Please call me STEVEN
 
 Here are some ideas to get you started:
 
@@ -12,7 +11,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--
-**callmesteven-tech/callmesteven-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
